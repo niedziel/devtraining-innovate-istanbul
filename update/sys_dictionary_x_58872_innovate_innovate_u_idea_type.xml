@@ -13,7 +13,7 @@
         <column_label>Idea type</column_label>
         <comments/>
         <create_roles/>
-        <default_value>cost</default_value>
+        <default_value>process</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -49,7 +49,7 @@
         <sys_created_on>2017-11-21 18:04:22</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>5b38f8c60f2203000d030dbce1050e6b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Idea type</sys_name>
         <sys_package display_value="Innovate" source="x_58872_innovate">8da775d10f3332000d030dbce1050e65</sys_package>
         <sys_policy/>
@@ -57,7 +57,7 @@
         <sys_scope display_value="Innovate">8da775d10f3332000d030dbce1050e65</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_innovate_innovate_u_idea_type</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-11-21 18:04:23</sys_updated_on>
+        <sys_updated_on>2017-11-21 18:06:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
